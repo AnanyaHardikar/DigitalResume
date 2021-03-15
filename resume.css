@@ -112,7 +112,7 @@ div.slide h2{
         width: 100%;
     }
 }
-@media (max-width:361px ){
+@media (max-width:720px ){
     figure{
         margin-top: 10%;
     }
